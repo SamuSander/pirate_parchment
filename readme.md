@@ -2,7 +2,7 @@
 
 This project is a simple, responsive pirate themed parchment using HTML and CSS. The parchment features a custom font, wavy paper texture, and a wax seal, making it an excellent choice for a fun and engaging reading experience.
 
-![alt text](example.png "Pirate Themed Parchment Preview")
+![alt text](example.PNG "Pirate Themed Parchment Preview")
 
 ## Features
 
